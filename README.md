@@ -86,7 +86,7 @@
     </div>
 
   
-    <a href="https://open.kakao.com/o/여기에코드" target="_blank" class="btn kakao">
+    <a href="https://open.kakao.com/o/[여기에코드](https://open.kakao.com/o/sQwTbRli)" target="_blank" class="btn kakao">
       카카오톡 문의
     </a>
 
