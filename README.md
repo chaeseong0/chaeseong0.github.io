@@ -80,21 +80,16 @@
       <p>✔ 철저한 프라이버시 보장</p>
     </div>
 
-    <!-- 🔥 여기 링크만 바꾸면 바로 작동 -->
-
-    <!-- 카카오톡 오픈채팅 링크 넣기 -->
+  
     <a href="https://open.kakao.com/o/여기에코드" target="_blank" class="btn kakao">
       카카오톡 문의
     </a>
 
-    <!-- 위챗 연결 (방법 2가지 중 선택) -->
 
-    <!-- 1. 위챗 ID 안내용 (추천) -->
     <a href="#" onclick="alert('WeChat ID: YOUR_WECHAT_ID')" class="btn wechat">
       위챗 문의
     </a>
 
-    <!-- 2. QR코드 페이지로 연결하고 싶으면 아래처럼 -->
     <!-- <a href="https://너의QR페이지주소" target="_blank" class="btn wechat">위챗 문의</a> -->
 
     <div class="footer">
