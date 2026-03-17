@@ -8,7 +8,12 @@
   <style>
     *{box-sizing:border-box}
     body{margin:0;font-family:'Pretendard',sans-serif;background:#0b0b0c;color:#fff}
-
+     .hero h1{
+  font-size:64px;
+  letter-spacing:8px;
+  color:#d4af37;
+  text-shadow:0 0 20px rgba(212,175,55,0.4);
+}
     .hero{
       height:420px;
       background:url('https://images.unsplash.com/photo-1519677100203-a0e668c92439?q=80&w=1600&auto=format&fit=crop') center/cover no-repeat;
@@ -20,7 +25,7 @@
     .hero h1{font-size:56px;letter-spacing:6px;margin:0;color:#d4af37}
     .hero p{margin-top:10px;color:#ccc}
 
-    .container{max-width:900px;margin:-60px auto 40px;padding:20px}
+    .container{max-width:900px;margin:-30px auto 40px;padding:20px}
 
     .card{background:#141416;border-radius:16px;padding:24px;margin-bottom:20px;box-shadow:0 10px 30px rgba(0,0,0,0.4);border:1px solid rgba(255,255,255,0.05)}
 
